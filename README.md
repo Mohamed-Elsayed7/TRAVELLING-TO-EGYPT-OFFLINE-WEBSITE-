@@ -1,0 +1,1 @@
+To be sure that the site opens as it supposed to be, pleas open it using google chrome on windows.
